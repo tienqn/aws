@@ -1,5 +1,0 @@
-<Directory /home/ubuntu/app/www/public/>
-    Options Indexes FollowSymLinks
-    AllowOverride All
-    Require all granted
-</Directory>
